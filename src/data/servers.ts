@@ -16,6 +16,10 @@ const servers: readonly Server[] = [
     serverId: 'basilisk',
     displayName: 'Basilisk',
   },
+  {
+    serverId: 'livemap',
+    displayName: 'Redemption',
+  },
 ];
 
 export default servers;
